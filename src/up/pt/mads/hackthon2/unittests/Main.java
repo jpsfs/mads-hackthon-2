@@ -19,7 +19,7 @@ public class Main {
 	
 	@Test
 	public void test3(){
-		fail("fail");
+		fail();
 	}
 
 }

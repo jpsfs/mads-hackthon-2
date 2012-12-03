@@ -1,6 +1,4 @@
 language: java
 install: ant build
 jdk:
-  - oraclejdk7
   - openjdk7
-  - openjdk6

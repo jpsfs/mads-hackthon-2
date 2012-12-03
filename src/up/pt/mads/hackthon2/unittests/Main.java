@@ -16,5 +16,10 @@ public class Main {
 		assertEquals(2.2, 2.2, 0);
 	
 	}
+	
+	@Test
+	public void test3(){
+		fail("fail");
+	}
 
 }

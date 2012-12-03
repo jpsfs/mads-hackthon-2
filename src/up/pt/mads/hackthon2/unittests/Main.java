@@ -10,5 +10,11 @@ public class Main {
 	public void test() {
 		assertTrue(true);
 	}
+	
+	@Test
+	public void test1(){
+		assertEquals(2.2, 2.2, 0);
+	
+	}
 
 }
